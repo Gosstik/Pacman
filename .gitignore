@@ -1,0 +1,7 @@
+cmake-build-debug/
+cmake-build-debug-coverage/
+bin/
+GoogleTests/bin/
+.idea/
+.tmp/
+src/tmp.cpp
